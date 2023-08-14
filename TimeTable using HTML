@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>table</title>
+</head>
+<body>
+    <table border="1px">
+        <tr>
+            <td colspan="8" style="padding: 30px;">
+                Class Coordinator: MS.NEETI TANEJA  
+            </td>
+            <td colspan="2" >
+                class-V A
+            </td>
+        </tr>
+        <tr>
+            <td>Day time /Mode</td>
+            <td>9:10-10:00</td>
+            <td>10:00 to 10:50</td>
+            <td>10:50 to 11:40</td>
+            <td>11:40 to 12:20</td>
+            <td>12:30 to 1:30</td>
+            <td>1:30 to 2:30</td>
+            <td>2:30 to 3:20</td>
+            <td>3:20 to 4:10</td>
+            <td>4:10 to 5:00</td>
+        </tr>
+        <tr>
+            <td rowspan="2">Monday</td>
+            <td> DBMS </td>
+            <td>DT</td>
+            <td colspan="2">WT LAb</td>
+            <td rowspan="10">   L
+                U
+                N
+                C
+                H </td>
+            <td>EL</td>
+            <td>El</td>
+            <td>CD</td>
+            <td>moocs</td>
+        </tr>
+        <tr>
+            <td>302D  NTJ</td>
+            <td>302D RSP</td>
+            <td colspan="2"> RJT/SWP    D-202</td>
+            <td>DPJ</td>
+            <td>RNK</td>
+            <td>302D    RHK</td>
+            <td>MDN  302D</td>
+        </tr>
+        <tr >
+            <td rowspan="2" >Tuesday</td>
+            <td> CD </td>
+            <td>EL</td>
+            <td>EL</td>
+            <td >DBMS</td>
+            <td>COI</td>
+            <td>DBMS</td>
+            <td colspan="2">Club and training</td>
+        </tr>
+        <tr>
+            <td>302D  RHK</td>
+            <td>302D DPJ</td>
+            <td >RNK</td>
+            <td>NTJ  302D</td>
+            <td>ARK 302D</td>
+            <td>NTJ 302D</td>
+            <td colspan="2">RKS/VBT  D-002B</td>
+        </tr>
+        <tr>
+            <td rowspan="2">Wednesday</td>
+            <td colspan="2"> Internship </td>
+            <td>CD</td>
+            <td >EL</td>
+            <td>EL</td>
+            <td>COI</td>
+            <td>CD</td>
+            <td>DT</td>
+        </tr>
+        <tr>
+            <td colspan="2">202D  RKS/MDS</td>
+            <td>302D  RHK</td>
+            <td> DPJ    D-302</td>
+            <td>RNK</td>
+            <td>302D    ARK</td>
+            <td>302D    RHK</td>
+            <td>RSP  302D</td>
+        </tr>
+        <tr>
+            <td rowspan="2">Thrusday</td>
+            <td> moocs </td>
+            <td>COI</td>
+            <td colspan="2"> DBMS Lab</td>
+            <td>DT</td>
+            <td>WT</td>
+            <td colspan="2">Competative Coading</td>
+            
+        </tr>
+        <tr>
+            <td>302D  MDN</td>
+            <td>302D ARK</td>
+            <td colspan="2"> NTJ/RNK   D-002B</td>
+            <td>302D   RSP</td>
+            <td>302D   RJT</td>
+            <td colspan="2">D-002B   MDN/RJT</td>
+        </tr>
+        <tr>
+            <td rowspan="2">Friday</td>
+            <td> CD </td>
+            <td>DBMS</td>
+            <td colspan="2">CD LAb</td>
+            <td>DT</td>
+            <td>El</td>
+            <td>El</td>
+            <td>DBMS</td>
+        </tr>
+        <tr>
+            <td>302D  RHK</td>
+            <td>302D NTJ</td>
+            <td colspan="2"> RHK/IRB    D-002B</td>
+            <td>RSP  302D</td>
+            <td>DPJ</td>
+            <td>RNK</td>
+            <td>NTJ  302D</td>
+        </tr>
+    </table>
+    
+</body>
+</html>
